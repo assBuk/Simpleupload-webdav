@@ -71,12 +71,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="dWebHook.cs" />
     <Compile Include="GetSpaceWebDav.cs">
       <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="N:\RiderProjects\TestApp — копия\LicenseVerification.cs">
-      <Link>LicenseVerification.cs</Link>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
